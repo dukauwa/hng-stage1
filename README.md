@@ -1,2 +1,3 @@
-# hng-stage1
-a simple php script to connect to database and read a list of names from it then display it.
+# instruction
+* CREATE DATABSE db
+* RUN dump.sql
